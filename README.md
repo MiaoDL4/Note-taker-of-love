@@ -8,7 +8,7 @@ Download, clone or just copy repo > Node.js is required > npm i
 
 ## Usage
 npm start > http://localhost:3001/
-
+or head to https://salty-wave-26367.herokuapp.com/
 
 ## Credits
 bootcampspot for suppling front end
