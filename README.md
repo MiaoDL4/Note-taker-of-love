@@ -10,7 +10,7 @@ Download, clone or just copy repo > Node.js is required > npm i
 npm start > http://localhost:3001/
 
 
-##credits
+## Credits
 bootcampspot for suppling front end
 
 ## License
